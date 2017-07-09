@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 	The git repository will be created and the directory will be converted into git. We need to do it to control the versions of the program.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	Staging area is the virtual directory which contains the file on which currently i am working on and commit will contain the code of these added files. It differentiates the files on basis of current usage.
+How can you use the staging area to make sure you have one commit per logical change?
+	By using the staging area we can add the files on which we are currently working and compare the differences in the working directory and the staging area.
