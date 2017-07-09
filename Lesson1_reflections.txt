@@ -9,3 +9,5 @@ files in one commit, while others, like Google Docs, treat each file separately?
 	It is done to have the whole history of the programme to be saved so that the programmer can go back to the older version at amy time.
 How can you use the commands git log and git diff to view the history of files?
 	It'll provide the differences in the older and the newer version which in turn help the programmer what changes have been made.
+How might using version control make you more confident to make changes that could break something?
+   If i know that i can restore the older version of my programme at any time then i will not hesitate to do anything.
