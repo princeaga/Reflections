@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  When there are multiple contributors for the project and to save the project if in there is any mishappening.
