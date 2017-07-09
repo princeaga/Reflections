@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	The git repository will be created and the directory will be converted into git. We need to do it to control the versions of the program.
