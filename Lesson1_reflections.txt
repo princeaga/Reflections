@@ -1,0 +1,2 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It'll help to identify the changes that i've made between the old versiona and the new version.
