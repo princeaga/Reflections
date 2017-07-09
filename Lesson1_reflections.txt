@@ -7,3 +7,5 @@ What do you think are the pros and cons of manually choosing when to create a co
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 	It is done to have the whole history of the programme to be saved so that the programmer can go back to the older version at amy time.
+How can you use the commands git log and git diff to view the history of files?
+	It'll provide the differences in the older and the newer version which in turn help the programmer what changes have been made.
