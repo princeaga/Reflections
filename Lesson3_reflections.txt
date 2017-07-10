@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 	forks are used to copy the repository into my account. clones are used to copy the repository between the github and the remote. Branches are used to create whenever new features are added into the programme or in case of any bug fixes.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	The benefit is that we can see the difference between the last state and the current state by using the git diff function
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	I would want to make a seperate branch when i need to add a new feature or to bug my application. It'll benefit me to have a non-broken master branch which i can run any time i want.
